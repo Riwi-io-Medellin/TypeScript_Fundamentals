@@ -19,3 +19,19 @@ Join our community of junior developers on this exciting learning adventure, as
 we explore the intricacies of TypeScript together and unlock its full potential
 for building robust and scalable applications. Let's code, learn, and grow
 together! 💻🌱 #TypeScriptFundamentals #LearningJourney
+
+## Resources
+
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [TypeScript Playground](https://www.typescriptlang.org/play)
+- [TypeScript GitHub Repository](https://github.com/microsoft/TypeScript)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [TypeScript cheatsheet](https://www.typescriptlang.org/cheatsheets)
+
+## Utilities
+
+- [ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and
+  REPL for node.js
+- [tslint](https://palantir.github.io/tslint/): An extensible linter for the
+  TypeScript language.
+- [Prettier](https://prettier.io/): An opinionated code formatter.
